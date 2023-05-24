@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "slowrm",
+  "slowrm_lib",
+]
